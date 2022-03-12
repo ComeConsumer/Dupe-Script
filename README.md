@@ -1,4 +1,3 @@
-# Dupe-Script
 local dupeKey = 188187043
 local lib = require(game.ReplicatedStorage:WaitForChild('Framework'):WaitForChild('Library'))
 local mydiamonds = string.gsub(game:GetService("Players").LocalPlayer.PlayerGui.Main.Right.Diamonds.Amount.Text, "%,", "")
